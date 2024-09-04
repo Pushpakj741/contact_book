@@ -12,6 +12,7 @@ Getting Started
 Prerequisites
 1)Python 3.6 or later
 2)Pip (Python package installer)
+
 Installation
 1)Clone the Repository
 git clone https://github.com/Pushpakj741/contact-book.git
