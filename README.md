@@ -26,7 +26,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Usage
 1)Run the Application
 Navigate to the project directory and run the main script:
-python contact_book.py
+python main.py
 
 2)Interact with the Application
 The application will prompt you with a menu to add, update, delete, or display contacts. Follow the on-screen instructions to manage your contacts.
@@ -40,9 +40,9 @@ Here's a brief overview of the command-line interface:
 5. Exit
 
 Code Structure
-1)contact_book.py: The main script to run the application.
-2)contacts.py: Contains the logic for managing contacts (add, update, delete, display).
-3)main.py: Utility functions to support the main functionalities.
+1)main.py: The main script to run the application.
+2)contact_book.py: Contains the logic for managing contacts (add, update, delete, display).
+3)contacts.py: Utility functions to support the main functionalities.
 
 Contributing
 If you would like to contribute to the project, please follow these steps:
